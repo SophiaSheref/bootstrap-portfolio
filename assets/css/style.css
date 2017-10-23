@@ -1,0 +1,181 @@
+body{
+	background-color: #dcd8d3; 
+	width: 960px;
+}
+
+.header
+{
+    width: 100%;
+	background-color: #ffffff;	
+    margin-bottom: -10px;
+    border-bottom-style: solid;
+    border-bottom-color: #777777;
+    border-bottom-width: .5px;
+}
+
+.navbar 
+{
+	width: 146%;
+	margin: -5px 100px -5px -25px;
+	border-style: solid;
+	border-color: #777777;
+    padding-top: 10px;
+}
+
+
+#brand 
+{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 25px;
+	font-weight: bold;
+	color: #ffffff;
+	padding: 25px;
+	background-color: #4aaaa5;
+	position: relative;
+	right: -15%;
+	margin-top: -10px;
+}
+
+
+#navbarSupportedContent{
+	float: right;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	margin-top: 10px;
+	color: #777777;
+}
+
+.container{
+	padding: 20px;
+	margin-left: 150px;
+}
+
+.jumbotron{
+	padding: 10px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	color: #4aaaa5;
+	background-color: #ffffff;
+	height: 500px;
+	width: 650px;
+	border-style: solid;
+	border-color: #777777;
+	border-width: 1px;
+	margin: 20px 0px 0px 30px;
+}
+
+#p{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 130%;
+	color: #4aaaa5;
+	margin-left: 20px;
+}
+
+.img{
+	float: left;
+	height: 200px;
+	width: 140px;
+	margin: 25px;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+#aboutme{
+	background-color: #ffffff;
+	width: 600px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 13px;
+	padding: 10px;
+	float: left;
+	color: #4aaaa5;
+	font-size: 25px;
+	font-family: "Georgia", Times, Times New Roman, serif;
+	font-weight: bold;
+}
+
+#connect 
+{
+	float: right;
+	width: 270px;
+	height: 200px;
+	background-color: white;
+	margin-top: 20px;
+	padding: 10px;
+	font-family: "Georgia", Times, Times New Roman, serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #4aaaa5;
+    border-style: solid;
+	border-color: #777777;
+	border-width: 1px;
+	text-align: center;
+}
+
+.topright {
+    top: 300px;
+    left: 250px;
+    font-size: 30px;
+    top: -540px;
+    position: relative;
+}
+
+.Link 
+{
+	width: 45px;
+	height: 45px;
+	margin: 15px;
+}
+
+.footer 
+{
+	clear: both;
+	background-color: #666666;
+	text-align: center;
+	font-size: 13px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: white;
+	padding: 20px;
+	width: 100%;
+	border-top: 5px solid #4aaaa5;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+
+.image {
+    width: 200px;
+	height: 200px;
+	margin: 5px;
+}
+
+.project 
+{
+	color: white;
+	background-color: #4aaaa5;
+	font-size: 15px;
+	width: 130px;
+	padding: 10px;
+	margin: 10px 20px 10px 20px;
+	text-align: center;
+}
+
+.left 
+{
+	float: left;
+	position: relative;
+	left: 20px;
+}
+
+.right 
+{
+	float: right;
+	position: relative;
+	right: 20px;
+}
+
+#exampleFormControlTextarea1
+{
+	height: 200px;
+}
